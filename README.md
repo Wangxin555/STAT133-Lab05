@@ -1,0 +1,2 @@
+### STAT 133 - Lab05: More Bash and Intro to Git
+In this lab, we will have first contact with Git, and its basic workflow, use Unix output redirection with ```>``` and ```>>```, use Unix pipes with ```|```, use filters: ```cut```, ```paste```, ```sort```, ```uniq```, ```grep```, first contact with R script files and learn about various exporting options in R.
