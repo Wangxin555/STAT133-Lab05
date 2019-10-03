@@ -1,0 +1,6 @@
+ [1] player     team       position  
+ [4] height     weight     age       
+ [7] experience college    salary    
+[10] games      minutes    points    
+[13] points3    points2    points1   
+<0 行> (或0-长度的row.names)
