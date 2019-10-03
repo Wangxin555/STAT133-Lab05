@@ -1,0 +1,85 @@
+                 player team position
+1          Kevin Durant  GSW       PF
+2         Klay Thompson  GSW       SG
+3        Draymond Green  GSW       PF
+4         Stephen Curry  GSW       PG
+5        Andre Iguodala  GSW       SF
+6      Shaun Livingston  GSW       PG
+7         Zaza Pachulia  GSW        C
+8      Anderson Varejao  GSW        C
+9            David West  GSW        C
+10         JaVale McGee  GSW        C
+11         Kevon Looney  GSW        C
+12         Damian Jones  GSW        C
+13            Ian Clark  GSW       SG
+14 James Michael McAdoo  GSW       PF
+15        Patrick McCaw  GSW       SG
+16          Matt Barnes  GSW       SF
+   height weight age experience
+1      81    240  28          9
+2      79    215  26          5
+3      79    230  26          4
+4      75    190  28          7
+5      78    215  33         12
+6      79    192  31         11
+7      83    270  32         13
+8      82    273  34         12
+9      81    250  36         13
+10     84    270  29          8
+11     81    220  20          1
+12     84    245  21          0
+13     75    175  25          3
+14     81    230  24          2
+15     79    185  21          0
+16     79    226  36         13
+                                 college
+1          University of Texas at Austin
+2            Washington State University
+3              Michigan State University
+4                       Davidson College
+5                  University of Arizona
+6                                       
+7                                       
+8                                       
+9                      Xavier University
+10            University of Nevada, Reno
+11 University of California, Los Angeles
+12                 Vanderbilt University
+13                    Belmont University
+14          University of North Carolina
+15       University of Nevada, Las Vegas
+16 University of California, Los Angeles
+     salary games minutes points points3
+1  26540100    62    2070   1555     117
+2  16663575    78    2649   1742     268
+3  15330435    76    2471    776      81
+4  12112359    79    2638   1999     324
+5  11131368    76    1998    574      64
+6   5782450    76    1345    389       1
+7   2898000    70    1268    426       0
+8   1551659    14      92     18       0
+9   1551659    68     854    316       3
+10  1403611    77     739    472       0
+11  1182840    53     447    135       2
+12  1171560    10      85     19       0
+13  1015696    77    1137    527      61
+14   980431    52     457    147       2
+15   543471    71    1074    282      41
+16   383351    20     410    114      18
+   points2 points1
+1      434     336
+2      376     186
+3      191     151
+4      351     325
+5      155      72
+6      172      42
+7      164      98
+8        5       8
+9      132      43
+10     208      56
+11      54      21
+12       8       3
+13     150      44
+14      60      21
+15      65      29
+16      20      20
